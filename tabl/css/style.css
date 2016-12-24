@@ -1,0 +1,81 @@
+table {
+  border-collapse: collapse;
+}
+
+td {
+  border: 10px solid #2d1c0e;
+  width: 60px;
+  height: 60px;
+}
+
+.n11,
+.n31,
+.n51 {
+  border-top: 0;
+}
+
+.n11,
+.n21,
+.n31,
+.n51 {
+  border-left: 0;
+}
+
+.n51,
+.n25,
+.n36,
+.n45,
+.n55,
+.n74 {
+  border-right: 0;
+}
+
+.n51,
+.n61,
+.n74 {
+  border-bottom: 0;
+}
+
+
+.n51,
+.n25 {
+  background-color: #fff95d;
+}
+
+.n22 {
+  background-color: #ff5e41;
+}
+
+.n42,
+.n43,
+.n52,
+.n53,
+.n64 {
+  background-color: #121111;
+}
+
+.n55 {
+  background-color: #0f528d;
+}
+
+.n21 {
+  width: 48px;
+  height: 130px;
+}
+
+.n35 {
+  width: 80px;
+  height: 130px;
+}
+
+.n36 {
+  width: 76px;
+}
+
+.n44 {
+  width: 130px;
+}
+
+.n64 {
+  height: 30px;
+}
