@@ -73,7 +73,7 @@ body{
 }
 
 .offers a {
-  color: inherit;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -89,15 +89,16 @@ body{
 }
 
 .user-block p {
+	color: #ffffff;
   padding: 11px 12px;
 }
 
 .user-block a {
-  color: inherit;
+	color: #ffffff;
 }
 
 .offers:active,
-.user-block:active {
+.user-block.active {
   background-image: linear-gradient(to bottom, #50afdc, #2e7ac4)
 }
 
