@@ -97,6 +97,10 @@ body{
 	color: #ffffff;
 }
 
+.user-block.active span {
+	text-decoration: underline;
+}
+
 .offers:active,
 .user-block.active {
   background-image: linear-gradient(to bottom, #50afdc, #2e7ac4)
