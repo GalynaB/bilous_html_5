@@ -154,6 +154,9 @@ body{
 .registration input[type="text"],
 .registration input[type="password"],
 .registration input[type="email"] {
+	font-family: inherite;
+  font-size: inherite;
+  line-height: inherite;
   color: #cccccc;
   background-image: linear-gradient(to bottom, #0f0f0f, #111111);
   box-shadow: 0 1px 0 0 #4b4b4b;
