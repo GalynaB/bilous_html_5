@@ -2,9 +2,9 @@
 	font-family: "Helvetica Neue";
 	src: url("../fonts/subset-HelveticaNeue.eot");
 	src: url("../fonts/subset-HelveticaNeue.eot?#iefix") format("embedded-opentype"),
+		url("../fonts/subset-HelveticaNeue.woff2") format("woff2"),
 		url("../fonts/subset-HelveticaNeue.woff") format("woff"),
-		url("../fonts/subset-HelveticaNeue.ttf") format("truetype"),
-		url("../fonts/subset-HelveticaNeue.svg#HelveticaNeue") format("svg");
+		url("../fonts/subset-HelveticaNeue.ttf") format("truetype");
 	font-weight: normal;
 	font-style: normal;
 }
